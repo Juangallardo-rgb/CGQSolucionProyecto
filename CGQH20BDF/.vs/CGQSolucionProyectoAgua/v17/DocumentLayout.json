@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Documents\\GitHub\\H20BDF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F12D97A8-2187-49D7-9DD9-5CDFABAD2474}|AguaApp\\CGQAguaApp.csproj|c:\\users\\dell\\documents\\github\\h20bdf\\aguaapp\\cgqincidenciaspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12D97A8-2187-49D7-9DD9-5CDFABAD2474}|AguaApp\\CGQAguaApp.csproj|solutionrelative:aguaapp\\cgqincidenciaspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12D97A8-2187-49D7-9DD9-5CDFABAD2474}|AguaApp\\CGQAguaApp.csproj|c:\\users\\dell\\documents\\github\\h20bdf\\aguaapp\\cgqincidenciaspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F12D97A8-2187-49D7-9DD9-5CDFABAD2474}|AguaApp\\CGQAguaApp.csproj|solutionrelative:aguaapp\\cgqincidenciaspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12D97A8-2187-49D7-9DD9-5CDFABAD2474}|AguaApp\\CGQAguaApp.csproj|c:\\users\\dell\\documents\\github\\h20bdf\\aguaapp\\cgqmedidorespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12D97A8-2187-49D7-9DD9-5CDFABAD2474}|AguaApp\\CGQAguaApp.csproj|solutionrelative:aguaapp\\cgqmedidorespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CGQIncidenciasPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\H20BDF\\AguaApp\\CGQIncidenciasPage.xaml.cs",
+              "RelativeDocumentMoniker": "AguaApp\\CGQIncidenciasPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\H20BDF\\AguaApp\\CGQIncidenciasPage.xaml.cs",
+              "RelativeToolTip": "AguaApp\\CGQIncidenciasPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:28:09.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CGQIncidenciasPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\H20BDF\\AguaApp\\CGQIncidenciasPage.xaml",
+              "RelativeDocumentMoniker": "AguaApp\\CGQIncidenciasPage.xaml",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\H20BDF\\AguaApp\\CGQIncidenciasPage.xaml",
+              "RelativeToolTip": "AguaApp\\CGQIncidenciasPage.xaml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-09T02:27:57.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CGQMedidoresPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\H20BDF\\AguaApp\\CGQMedidoresPage.xaml.cs",
+              "RelativeDocumentMoniker": "AguaApp\\CGQMedidoresPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\H20BDF\\AguaApp\\CGQMedidoresPage.xaml.cs",
+              "RelativeToolTip": "AguaApp\\CGQMedidoresPage.xaml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:25:09.974Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
